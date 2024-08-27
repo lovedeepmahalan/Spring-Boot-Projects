@@ -4,10 +4,22 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.stereotype.Component;
 
+import jakarta.annotation.PostConstruct;
+
 @Component("item")
 @PropertySource("in/pwskills/nitin/cfgs/app.properties")
 public class ItemInfo {
 
+	/*@Autowired
+	public Environment environment;
+	
+	public Integer Idly;
+	
+	@PostConstruct
+	public void init() {
+		this.Idly = Integer.parseInt(environment.getProperty("idly.price"));
+	}  */
+	
 	@Value("${idly.price}")
 	public Integer Idly;
 	
@@ -16,11 +28,11 @@ public class ItemInfo {
 	
 	@Value("${dosa.price}")
 	public Integer dosa;
+	
+	
+	
 	@Override
 	public String toString() {
 		return "ItemInfo [idly="+Idly  + ", coffiee=" + coffiee + ", dosa=" + dosa + "]";
-	}
-	
-	
-	
+	}	
 }

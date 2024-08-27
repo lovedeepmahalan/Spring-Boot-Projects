@@ -6,10 +6,82 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\30-spring-boot-jparepository-HQL-JOINS"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\32-spring-boot-jparepository-LOB-APP"/>
+			<item value="D:\MySpringBootProjects\26-springdatajpa-ManytoOne-uni"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\29-spring-boot-jparepository-OneToOneEx-uni"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\28-spring-boot-jparepository-ManyToManyEx-uni"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\27-spring-boot-jparepository-OneToManyEx-uni"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\26-spring-boot-jparepository-ManyToOneEx-uni"/>
+			<item value="D:\Nitin_Projects\MyHibernateProject\Hibernate-11-BulkOperation"/>
+			<item value="D:\Nitin_Projects\MyHibernateProject\Hibernate-11-Bulk-operations"/>
+			<item value="D:\Nitin_Projects\MyHibernateProject"/>
+			<item value="D:\Nitin_Projects\MyHibernateProject\Hibernate_01"/>
+			<item value="D:\MySpringBootProjects\SpringORM"/>
+			<item value="D:\MySpringBootProjects"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\24-spring-boot-jparepository-collection-mapping"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\23-spring-boot-jparepository-custom-query-HQL"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\22-spring-boot-jparepository-custom-queryapp"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\21-spring-boot-jparepository-app"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\20-spring-boot-pagingandsorting-repository-pagination-app"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\19-spring-boot-pagingandsorting-repository-app"/>
+			<item value="D:\MySpringBootProjects\18-springboot-crud-repository-app"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\springorm-app"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\18-spring-boot-crud-repository-app"/>
+			<item value="D:\MySpringBootProjects\17-SpringBoot-MappingSQL-SubClass-App"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\17-spring-boot-MappingSQLSubclass-App"/>
+			<item value="D:\Nitin_Projects\MyAllProjects\MyCRUDAPP"/>
+			<item value="D:\Nitin_Projects\MyAllProjects\MVCRUDJSP"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\16-spring-boot-LOB-APP"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\15-spring-boot-SimpleJdbcCall-app"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\14-spring-boot-SimpleJdbcInsert-app"/>
+			<item value="D:\Nitin_Projects\MavenBasicProjects"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\13-spring-boot-namedparameterjdbctemplate-callback"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\Springjdbc-JdbcTemplate-App"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\12-spring-boot-jdbctemplate-callback-app"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\11-spring-boot-Runners-AppRunner-app"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\10-spring-boot-Runners-app"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\09-spring-boot-profile-app-usingyml"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\08-spring-boot-profile-app"/>
+			<item value="D:\Nitin_Projects\MySpringCoreProjects"/>
+			<item value="D:\Nitin_Projects\MyServletProjects\PooledConnectionAppn"/>
+			<item value="D:\Nitin_Projects\MySpringCoreProjects\JDBC-DI-Project"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\06-spring-boot-DI-Plain-JDBC"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\07-spring-boot-YML-App"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\05-spring-boot-@ConfigurationProperties-AllTypes"/>
+			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\04-spring-boot-@ConfigurationProperties"/>
+			<item value="D:\MySpringBootProjects\01-SpringBoot-DI"/>
 			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\03-spring-boot-@Value"/>
 			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\02-spring-boot-DI"/>
 			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\01-spring-boot-DI\01-spring-boot-DI"/>
 			<item value="D:\Pwskills_Octbatch\pwskills_SpringBoot\SpringBoot-Projects\01-spring-boot-DI"/>
 		</list>
+		<section name="SmartImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="403"/>
+			<item key="DIALOG_Y_ORIGIN" value="76"/>
+			<item key="DIALOG_WIDTH" value="1129"/>
+			<item key="DIALOG_HEIGHT" value="667"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-27|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+		<section name="NewWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="0"/>
+			<item key="DIALOG_Y_ORIGIN" value="0"/>
+			<item key="DIALOG_WIDTH" value="700"/>
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-27|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="658"/>
+		<item key="DIALOG_HEIGHT" value="408"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-27|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<item key="BUILD_NOW" value="true"/>
+		<item key="BUILD_ALL" value="false"/>
 	</section>
 </section>

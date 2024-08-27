@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class Billing {
 
+	//SPEL
 	@Value("#{item.Idly+item.coffiee+item.dosa}")
 	public int totalPrice;
 	

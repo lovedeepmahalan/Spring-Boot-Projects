@@ -1,3 +1,4 @@
-GitRepositoriesView.GitDirectories=D\:\\Pwskills_Octbatch\\pwskills_SpringBoot\\SpringBoot-Projects\\.git;
-GitRepositoriesView.GitDirectories.relative=D\:\\Pwskills_Octbatch\\pwskills_SpringBoot\\SpringBoot-Projects\\.git;
+GitRepositoriesView.GitDirectories=D\:\\MySpringBootProjects\\.git;D\:\\Pwskills_Octbatch\\pwskills_SpringBoot\\SpringBoot-Projects\\.git;D\:\\Nitin_Projects\\MySpringCoreProjects\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;D\:\\Pwskills_Octbatch\\pwskills_SpringBoot\\SpringBoot-Projects\\.git;D\:\\Nitin_Projects\\MySpringCoreProjects\\.git;
+core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

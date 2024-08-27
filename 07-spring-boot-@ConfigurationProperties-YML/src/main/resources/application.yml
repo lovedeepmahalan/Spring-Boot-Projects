@@ -1,0 +1,23 @@
+# Conversion to YAML from Properties formar report
+# Warnings:
+# - The yaml file had comments which are lost in the refactoring!
+emp:
+  info:
+    name: sachin
+    eid: 10
+    nickNames: masterblaster,littlemaster
+    friendsNames: saurav,dravid,sehwagh,laxman
+    phoneNumber: 9998887776,8889996665,9898987645
+    bankDetails:
+      sbi: 122335
+      canara: 223345
+    company:
+      location: DELHI
+      title: IPL
+      size: 100
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql:///pwskills_octbatch
+    username: root
+    password: root123

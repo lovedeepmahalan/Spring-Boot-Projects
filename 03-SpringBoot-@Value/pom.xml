@@ -11,7 +11,7 @@
 	<groupId>PWSkills</groupId>
 	<artifactId>01-SpringBoot-DI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>01-SpringBoot-DI</name>
+	<name>03-SpringBoot-Value</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>

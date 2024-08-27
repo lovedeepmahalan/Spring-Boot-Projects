@@ -1,0 +1,14 @@
+
+emp:
+  info:
+    id: 12
+    name: Nitin
+    age: 23
+    salary: 12000.0
+    
+stud:
+  info:
+    id: 1
+    name: Lovedeep
+    age: 23
+    fee: 1200

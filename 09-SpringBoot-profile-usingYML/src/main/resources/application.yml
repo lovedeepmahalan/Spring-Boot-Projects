@@ -1,0 +1,57 @@
+#in yml we have to write all profile in a single file
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql:///pwskills_octbatch
+    username: root
+    password: mysql#123
+---
+spring:
+  config:
+    activate:
+      on-profile:
+      - dev
+  datasource:
+    type: org.apache.commons.dbcp2.BasicDataSource   
+    
+---
+spring:
+  config:
+    activate:
+      on-profile:
+      - prod
+  datasource:
+    type: org.apache.commons.dbcp2.BasicDataSource   
+    
+---
+spring:
+  config:
+    activate:
+      on-profile:
+      - qa
+  datasource:
+    type: org.apache.commons.dbcp2.BasicDataSource   
+    
+---
+spring:
+  config:
+    activate:
+      on-profile:
+      - uat
+  datasource:
+    type: oracle.ucp.jdbc.PoolDataSource  
+    
+---
+Spring:
+  config:
+    activate:
+      on-profile:
+      - prodst
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql:///pwskills_octbatch
+    username: root
+    password: mysql#123 
+    type: com.mchange.v2.c3p0.ComboPooledDataSource
+    
+    
